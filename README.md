@@ -1,7 +1,7 @@
 # AmazonApp
 Simple script which uses BeautifulSoup &amp; smtplib to send an email notification when a chosen item on Amazon moves below a given price point.
 
-Be sure to `pip install bs4` to check that you have it already. All other imports should already be installed.
+Be sure to `pip install bs4` to check that you have it already. All other imports should already be included with Python3.
 
 If you don't know your user agent information, just google "my user agent" and copy and paste that into `headers` (line 10)
 
